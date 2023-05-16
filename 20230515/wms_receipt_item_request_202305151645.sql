@@ -1,0 +1,57 @@
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('771a658f-f8e6-42d0-9d07-08f99f7a479c','82b9c1df-1436-443d-adad-3ee1a84afe70','24730cbc-71dc-43be-8773-4bdfd8e00436',5.00,NULL),
+	 ('21ab1a31-9df3-4788-a015-504ed9f42d23','97722fd7-d98c-4858-a2be-0ab42663af47','24730cbc-71dc-43be-8773-4bdfd8e00436',15.00,NULL),
+	 ('5829bd33-48ec-4d65-9a2d-31eecc1f96a9','97722fd7-d98c-4858-a2be-0ab42663af47','16eb3684-4477-4afc-9f7e-e9859705e703',10.00,NULL),
+	 ('1de44950-4a11-4393-984e-b1d50ec52ac7','97722fd7-d98c-4858-a2be-0ab42663af47','c977d13b-6a58-4d0d-a2d3-be48128b0fe3',10.00,NULL),
+	 ('272fea16-c96e-411a-9981-49c16d444eb7','97722fd7-d98c-4858-a2be-0ab42663af47','96dcf27f-b693-410e-8e2b-2fd4d17895ba',10.00,NULL),
+	 ('1fcf8003-bbb2-4e76-add6-02c656d1edbc','97722fd7-d98c-4858-a2be-0ab42663af47','2b6c9e6e-1c8a-4313-a561-9e037f0553b6',15.00,NULL),
+	 ('bec79b63-46fb-4d0b-b644-6f0ba9a1aa4d','97722fd7-d98c-4858-a2be-0ab42663af47','7c8ebea3-9826-406d-9a6c-9072aff8791d',10.00,NULL),
+	 ('dad2301e-28ba-4792-a930-21219b936de5','97722fd7-d98c-4858-a2be-0ab42663af47','11cbd1a9-51f6-4a2e-b59b-5c33b3dd3f84',10.00,NULL),
+	 ('920c1fcd-abb6-48e4-9f0a-4ffe77cb93e9','97722fd7-d98c-4858-a2be-0ab42663af47','2c50edd5-5bde-438f-aca3-dadf7190feaf',15.00,NULL),
+	 ('02574003-0293-43d4-8f47-44091da7dd37','192832b9-3766-410a-b413-f1c097327fc2','c1740f07-7c40-408c-bee2-5a39073a3ff8',15.00,NULL);
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('de710419-9e50-4b78-a934-33057c9f1419','192832b9-3766-410a-b413-f1c097327fc2','b9e878f3-9f02-496e-8d72-5afdaee1d0c3',15.00,NULL),
+	 ('455379d9-45e0-49a7-80d9-49123e8c2a07','192832b9-3766-410a-b413-f1c097327fc2','c32de6d7-36d0-40d9-bca9-85ed866c8ba0',10.00,NULL),
+	 ('4e573876-9347-41a5-b686-28e15991354f','192832b9-3766-410a-b413-f1c097327fc2','0c340792-895b-4057-a632-ab57cc55dbea',10.00,NULL),
+	 ('19592ff5-d74b-4bb0-a09e-3112e75b9696','192832b9-3766-410a-b413-f1c097327fc2','d05fb8ea-cbdd-4049-9627-7fb0a7b70ad2',10.00,NULL),
+	 ('6eb8d694-dab6-4111-9c5a-b180f6dca073','192832b9-3766-410a-b413-f1c097327fc2','c62f42e7-86fd-42cb-a708-0371667aa387',10.00,NULL),
+	 ('ae4169d6-eab6-4810-b418-00787b8dac61','192832b9-3766-410a-b413-f1c097327fc2','0152613e-3eb7-4e7c-a82c-7fb3e235464d',10.00,NULL),
+	 ('a7780ad9-cad8-4f40-8bfd-75946ae46a66','192832b9-3766-410a-b413-f1c097327fc2','3a1870cb-ec81-4fba-9552-f5e8ca40c3fc',15.00,NULL),
+	 ('4dd46298-37b0-44a6-8d81-6faac103ef5f','af271c85-c07e-4e95-9289-eca99cc5936b','2da97674-c481-4bd6-9dc4-a073c47bc69a',15.00,NULL),
+	 ('c0095730-6e70-4520-b016-f93d63d50996','af271c85-c07e-4e95-9289-eca99cc5936b','5953e570-4c6c-499e-bd94-c365a8ec56a8',15.00,NULL),
+	 ('9cb47c20-417d-42e9-83d2-de9487d9b0ad','af271c85-c07e-4e95-9289-eca99cc5936b','72cc77aa-e683-4b19-ae61-be0ebebfa017',10.00,NULL);
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('a2a67e79-c8c8-476a-9942-6d3a3d702fda','af271c85-c07e-4e95-9289-eca99cc5936b','76da5345-be8c-442e-bfbd-d87fc9661cf6',10.00,NULL),
+	 ('82c70737-e93a-4bd9-9858-a9ee0f0eea63','af271c85-c07e-4e95-9289-eca99cc5936b','1d1c2194-b553-4ab9-8a47-4b222513299c',15.00,NULL),
+	 ('c91f5984-d1ee-49a2-a2f9-8e401dc4e539','af271c85-c07e-4e95-9289-eca99cc5936b','c948cd56-050c-4290-8cf8-8c6fe4a30dd8',10.00,NULL),
+	 ('bac3a575-b8f2-4249-97e5-61a2ca166ebc','af271c85-c07e-4e95-9289-eca99cc5936b','2fc13f31-a650-403c-b062-54e6b7d68bfe',10.00,NULL),
+	 ('de25181c-8685-454f-9ae1-08b5960bfaf8','af271c85-c07e-4e95-9289-eca99cc5936b','00658d7f-f6b0-4369-b799-c75a464a908b',15.00,NULL),
+	 ('2d622f4a-acc5-4b52-a3d2-6d67486c1151','5671460f-2ccf-4ec4-906d-0982affc0621','03cd5a3a-04d0-4e77-8555-6c57f5cadf26',10.00,NULL),
+	 ('613a7f30-4fcb-4bed-8065-de8ae34539ce','5671460f-2ccf-4ec4-906d-0982affc0621','82ec203c-a147-4e13-916c-9f02824397ec',10.00,NULL),
+	 ('2b39f526-4a3f-4344-8ef0-c5237ab507e7','5671460f-2ccf-4ec4-906d-0982affc0621','e0eab9dc-892d-4ed7-b037-6319c1fed688',20.00,NULL),
+	 ('244f7540-74e3-4c72-b08b-f04bada2a671','5671460f-2ccf-4ec4-906d-0982affc0621','7abcf27c-fa37-45d0-920a-e4582eb71fed',10.00,NULL),
+	 ('39c5c298-6521-4036-9ae2-afc64b68ef34','5671460f-2ccf-4ec4-906d-0982affc0621','39e16d5b-be17-4db5-929c-ce487083422e',20.00,NULL);
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('1f470b30-ac23-4ef8-b21f-ac1c07419000','5671460f-2ccf-4ec4-906d-0982affc0621','2190b27f-942b-4924-b136-9ae19a6a9d60',20.00,NULL),
+	 ('b283e068-c119-4868-855b-51db444918ad','5671460f-2ccf-4ec4-906d-0982affc0621','bc58e6e6-41ad-4c35-9d26-fd93d87bcfce',20.00,NULL),
+	 ('583239e9-d9e1-43e4-a46f-53c7b633b52c','5671460f-2ccf-4ec4-906d-0982affc0621','659f9db2-7d0d-46de-8020-a42e3be0d1c9',20.00,NULL),
+	 ('3db489bd-9ab2-4863-9c53-843d4e70915b','5671460f-2ccf-4ec4-906d-0982affc0621','9f6cdbe2-b91c-41b4-ab46-e164767abbf1',20.00,NULL),
+	 ('4b72e015-0db0-44b0-9279-79b71908f313','5671460f-2ccf-4ec4-906d-0982affc0621','e97299a3-346d-49c2-b42b-6b2c618573b7',20.00,NULL),
+	 ('ceeed847-92f6-4127-b593-df17da365a18','5671460f-2ccf-4ec4-906d-0982affc0621','8ccfe2ba-2b6a-4029-a29c-58b363951481',15.00,NULL),
+	 ('4b73dcda-4cf4-4ff2-9dc2-9c46c2913ee6','5671460f-2ccf-4ec4-906d-0982affc0621','2df1dd6c-7876-478b-bcf7-914b7c1dff16',15.00,NULL),
+	 ('083dece7-12c6-4a17-96be-06488a294a8b','5671460f-2ccf-4ec4-906d-0982affc0621','3b565de7-2a88-44a7-8107-ccec17216fe1',15.00,NULL),
+	 ('3cc4e775-66df-467d-97b6-dd574ee91209','5671460f-2ccf-4ec4-906d-0982affc0621','6a60b010-8c9d-4f85-953e-47bd99e497fc',15.00,NULL),
+	 ('0e4c3b64-8403-4c20-965c-6c8863d2db35','5671460f-2ccf-4ec4-906d-0982affc0621','fa15f3af-dcfa-4ffc-9f99-1c7b37b9c3dc',15.00,NULL);
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('9883c5c1-52e0-4fec-98d4-f1a231c59e31','5671460f-2ccf-4ec4-906d-0982affc0621','59ced1ff-b237-4d33-be03-8e307c044479',20.00,NULL),
+	 ('afe0f2fd-0841-46d1-a506-1bf3fd180939','5671460f-2ccf-4ec4-906d-0982affc0621','97658940-0de7-4740-b4ce-98223348fedc',20.00,NULL),
+	 ('d67d9979-3792-4d09-9bb5-f4db25f5f181','5671460f-2ccf-4ec4-906d-0982affc0621','c819effd-8381-416b-b397-1b5dc8ba063d',20.00,NULL),
+	 ('c634fc51-5b3f-4110-8121-b3bd48f03319','7ef6781e-e23a-49c8-8254-0833e9c540c8','d6758d2d-d1c5-4152-9b66-77483af6e99a',20.00,NULL),
+	 ('b1ccf871-806c-4900-84e6-acea085fd087','7ef6781e-e23a-49c8-8254-0833e9c540c8','41779e51-71f1-4e24-a0c2-f623e04e9b88',20.00,NULL),
+	 ('10b128bb-95db-432b-8689-db97c56478e4','7ef6781e-e23a-49c8-8254-0833e9c540c8','85ff20c1-5008-4ab4-b12c-964c8f9bfea7',20.00,NULL),
+	 ('3477de75-45be-40da-9770-169db289f992','7ef6781e-e23a-49c8-8254-0833e9c540c8','9cb679ec-0fd7-4c82-a8e9-f7b08bf6fa49',20.00,NULL),
+	 ('1acd9537-39d2-4d24-ba65-07c6c0af5985','7ef6781e-e23a-49c8-8254-0833e9c540c8','bc9872e6-8274-4d49-833f-a88e82e888ba',20.00,NULL),
+	 ('741b2aae-fbb6-46db-8d1e-f9c13285a845','7ef6781e-e23a-49c8-8254-0833e9c540c8','a4df0b52-3b8b-4dc5-ac95-8f708f7b8ced',20.00,NULL),
+	 ('15715184-5b44-44a8-8b7b-e68132633b45','7ef6781e-e23a-49c8-8254-0833e9c540c8','25a5b33a-1af2-4b57-91d0-b557fa0231db',15.00,NULL);
+INSERT INTO public.wms_receipt_item_request (receipt_item_request_id,receipt_id,product_id,quantity,warehouse_id) VALUES
+	 ('945b6ae4-2242-44ff-8d1b-a9e9c035e708','7ef6781e-e23a-49c8-8254-0833e9c540c8','f4803d7f-381b-4cf4-8e03-92ae6c13ff9d',15.00,NULL);

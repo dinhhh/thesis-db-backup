@@ -1,0 +1,55 @@
+INSERT INTO public.wms_product (product_id,code,"name",description,height,weight,area,uom,category_id,image_content_type,image_size,image_data) VALUES
+	 ('24730cbc-71dc-43be-8773-4bdfd8e00436','WA10T5260BY/SV','Máy giặt Samsung Inverter 10 kg',NULL,107.50,41.00,3600.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',126065,21404),
+	 ('16eb3684-4477-4afc-9f7e-e9859705e703','AW-L805AV (SG)','Máy giặt Toshiba 7 Kg',NULL,92.00,33.00,2500.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',176539,21405),
+	 ('c977d13b-6a58-4d0d-a2d3-be48128b0fe3','T2351VSAB','Máy giặt LG Inverter 11.5 kg',NULL,96.00,39.00,3600.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',87830,21406),
+	 ('96dcf27f-b693-410e-8e2b-2fd4d17895ba','FV1408S4W','Máy giặt LG Inverter 8.5 kg',NULL,85.00,62.00,3600.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',125194,21407),
+	 ('2b6c9e6e-1c8a-4313-a561-9e037f0553b6','F2515STGW','Máy giặt LG Inverter 15 Kg',NULL,94.00,77.00,4928.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',77725,21408),
+	 ('7c8ebea3-9826-406d-9a6c-9072aff8791d','WW13T504DAB/SV','Máy giặt Samsung Inverter 13 kg',NULL,85.00,74.00,3900.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',158259,21409),
+	 ('11cbd1a9-51f6-4a2e-b59b-5c33b3dd3f84','EWF1024P5SB','Máy giặt Electrolux Inverter 10 kg',NULL,85.00,76.00,3900.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',91433,21410),
+	 ('2c50edd5-5bde-438f-aca3-dadf7190feaf','EWF1141R9SB','Máy giặt Electrolux Inverter 11 kg',NULL,85.00,80.00,3900.00,'Cái','729aca08-ef0a-11ed-b27c-02420a000304','image/jpeg',148433,21411),
+	 ('c1740f07-7c40-408c-bee2-5a39073a3ff8','UA55AU8100','Smart Tivi Samsung 4K Crystal UHD 55 inch',NULL,78.00,16.00,2760.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',420206,21412),
+	 ('b9e878f3-9f02-496e-8d72-5afdaee1d0c3','UA65AU8100','Smart Tivi Samsung 4K Crystal UHD 65 inch',NULL,90.00,21.00,4350.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',653599,21413);
+INSERT INTO public.wms_product (product_id,code,"name",description,height,weight,area,uom,category_id,image_content_type,image_size,image_data) VALUES
+	 ('c32de6d7-36d0-40d9-bca9-85ed866c8ba0','QA55Q65A','Smart Tivi QLED 4K 55 inch Samsung',NULL,76.00,16.00,3075.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',836059,21414),
+	 ('0c340792-895b-4057-a632-ab57cc55dbea','KD-55X80K','Google Tivi Sony 4K 55 inch',NULL,78.00,17.00,4182.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',580782,21416),
+	 ('d05fb8ea-cbdd-4049-9627-7fb0a7b70ad2','KD-75X80K','Google Tivi Sony 4K 75 inch',NULL,104.00,33.00,6847.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',713922,21418),
+	 ('c62f42e7-86fd-42cb-a708-0371667aa387','55UQ8000PSC','Smart Tivi LG 4K 55 inch',NULL,80.00,14.00,4980.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',870155,21420),
+	 ('0152613e-3eb7-4e7c-a82c-7fb3e235464d','70UQ8000PSC','Smart Tivi LG 4K 70 inch',NULL,98.00,29.00,5928.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',870155,21422),
+	 ('3a1870cb-ec81-4fba-9552-f5e8ca40c3fc','43NANO75TPA','Smart Tivi NanoCell LG 4K 43 inch',NULL,63.00,9.00,2016.00,'Cái','729ab27a-ef0a-11ed-b27c-02420a000304','image/jpeg',794537,21424),
+	 ('2da97674-c481-4bd6-9dc4-a073c47bc69a','GR-B22VU UKG','Tủ lạnh Toshiba Inverter 180 lít',NULL,130.00,37.00,3300.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',57648,21426),
+	 ('5953e570-4c6c-499e-bd94-c365a8ec56a8','RT22M4032BY/SV','Tủ lạnh Samsung Inverter 236 lít',NULL,155.00,45.00,3465.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',78034,21427),
+	 ('72cc77aa-e683-4b19-ae61-be0ebebfa017','GN-M312BL','Tủ lạnh LG Inverter 315 Lít',NULL,164.00,57.00,4200.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',58968,21428),
+	 ('76da5345-be8c-442e-bfbd-d87fc9661cf6','SJ-FX600V-SL','Tủ lạnh Sharp Inverter 525 lít',NULL,172.00,100.00,6342.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',199391,21429);
+INSERT INTO public.wms_product (product_id,code,"name",description,height,weight,area,uom,category_id,image_content_type,image_size,image_data) VALUES
+	 ('1d1c2194-b553-4ab9-8a47-4b222513299c','GN-D392BLA','Tủ lạnh LG Inverter 394 lít',NULL,177.00,71.00,4860.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',114311,21430),
+	 ('c948cd56-050c-4290-8cf8-8c6fe4a30dd8','RF48A4010M9/SV','Tủ lạnh Samsung Inverter 488 lít',NULL,180.00,99.00,6225.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',203759,21431),
+	 ('2fc13f31-a650-403c-b062-54e6b7d68bfe','RS62R5001B4/SV','Tủ lạnh Samsung Inverter 655 lít',NULL,178.00,101.00,6288.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',170586,21432),
+	 ('00658d7f-f6b0-4369-b799-c75a464a908b','NR-BV280QSVN','Tủ lạnh Panasonic Inverter 255 lít',NULL,150.00,51.00,3808.00,'Cái','729ac56c-ef0a-11ed-b27c-02420a000304','image/jpeg',77244,21434),
+	 ('03cd5a3a-04d0-4e77-8555-6c57f5cadf26','NCG1805','Nồi cơm điện nắp gài Delites 1.8 lít',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',370814,21436),
+	 ('82ec203c-a147-4e13-916c-9f02824397ec','BL1055-CB','Máy xay sinh tố đa năng AVA',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',319357,21437),
+	 ('e0eab9dc-892d-4ed7-b037-6319c1fed688','KG723','Quạt treo Kangaroo',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',296667,21438),
+	 ('7abcf27c-fa37-45d0-920a-e4582eb71fed','KG12AF1A','Lò chiên không dầu Kangaroo 12 lít',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',177490,21440),
+	 ('39e16d5b-be17-4db5-929c-ce487083422e','DLX23','Robot hút bụi lau nhà Ecovacs Deebot T20 Omni',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',192602,21441),
+	 ('2190b27f-942b-4924-b136-9ae19a6a9d60','ST18S05','Bình đun siêu tốc Delites 1.8 lít',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',280787,21442);
+INSERT INTO public.wms_product (product_id,code,"name",description,height,weight,area,uom,category_id,image_content_type,image_size,image_data) VALUES
+	 ('bc58e6e6-41ad-4c35-9d26-fd93d87bcfce','KAD-X39','Máy lọc nước RO nóng nguội lạnh Karofi',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',110343,21443),
+	 ('659f9db2-7d0d-46de-8020-a42e3be0d1c9','JR-319','Máy ép chậm AVA',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',60825,21444),
+	 ('9f6cdbe2-b91c-41b4-ab46-e164767abbf1','KG10A3','Máy lọc nước RO nóng nguội lạnh Kangaroo 10 lõi',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',140071,21445),
+	 ('e97299a3-346d-49c2-b42b-6b2c618573b7','KG855i','Bếp từ đôi lắp âm Kangaroo',NULL,NULL,NULL,NULL,'Cái','729acc10-ef0a-11ed-b27c-02420a000304','image/jpeg',397977,21446),
+	 ('8ccfe2ba-2b6a-4029-a29c-58b363951481','KG50F79','Quạt điều hoà Kangaroo KG50F79',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',104923,21448),
+	 ('2df1dd6c-7876-478b-bcf7-914b7c1dff16','9000D','Quạt điều hòa Rapido 9000D',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',225699,21451),
+	 ('3b565de7-2a88-44a7-8107-ccec17216fe1','KG50F62','Quạt điều hoà Kangaroo KG50F62',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',121217,21452),
+	 ('6a60b010-8c9d-4f85-953e-47bd99e497fc','KG50F88','Quạt điều hòa Kangaroo KG50F88',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',176763,21453),
+	 ('fa15f3af-dcfa-4ffc-9f99-1c7b37b9c3dc','6000D','Quạt điều hòa Rapido 6000D',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',162459,21454),
+	 ('59ced1ff-b237-4d33-be03-8e307c044479','AC-38AR','Quạt điều hòa Puwa AC-38AR',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',60542,21455);
+INSERT INTO public.wms_product (product_id,code,"name",description,height,weight,area,uom,category_id,image_content_type,image_size,image_data) VALUES
+	 ('97658940-0de7-4740-b4ce-98223348fedc','KSWK-10X61D','Quạt điều hoà Gree',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',68339,21456),
+	 ('c819effd-8381-416b-b397-1b5dc8ba063d','KG50F79N','Quạt điều hòa Kangaroo KG50F79N',NULL,NULL,NULL,NULL,'Cái','729acd96-ef0a-11ed-b27c-02420a000304','image/jpeg',159023,21458),
+	 ('41779e51-71f1-4e24-a0c2-f623e04e9b88','GWC07PA-K3D0P4','Máy lạnh Gree Inverter 0.8 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',78529,21459),
+	 ('85ff20c1-5008-4ab4-b12c-964c8f9bfea7','NIS-C09R2H10','Máy lạnh Nagakawa Inverter 1 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',63217,21461),
+	 ('9cb679ec-0fd7-4c82-a8e9-f7b08bf6fa49','ATKF25XVMV','Daikin Inverter 1 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',142496,21463),
+	 ('bc9872e6-8274-4d49-833f-a88e82e888ba','IC-09TL32','Máy lạnh Casper Inverter 1 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',139646,21464),
+	 ('a4df0b52-3b8b-4dc5-ac95-8f708f7b8ced','FTKF50XVMV','Máy lạnh Daikin Inverter 2 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',122652,21465),
+	 ('25a5b33a-1af2-4b57-91d0-b557fa0231db','MSAG-10CRDN8','Máy lạnh Midea Inverter 1 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',66274,21466),
+	 ('f4803d7f-381b-4cf4-8e03-92ae6c13ff9d','AH-X18XEW','Máy lạnh Sharp Inverter 2 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',129927,21467),
+	 ('d6758d2d-d1c5-4152-9b66-77483af6e99a','MSAFA-10CRDN8','Máy lạnh Midea Inverter 5 HP',NULL,NULL,NULL,NULL,'Cái','729acefe-ef0a-11ed-b27c-02420a000304','image/jpeg',90735,21462);
